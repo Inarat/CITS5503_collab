@@ -1,6 +1,6 @@
 Total # of questions = 5 questions  each 20 points
-EC2 vs Lambda
-DevOps, Docker Containers
+1) EC2 vs Lambda
+2) DevOps, Docker Containers
 Web Architectures vs Serverless Architectures
 Load Balancers
 STorage Technologies: S3, DynamoDB, RDS 
@@ -9,8 +9,85 @@ Other technologies: Elastic Transcoder, POlly
 Cloud computing theory and concepts 
 
 
+Server 
+
+
+def lambda_handelr(event, context)
+Event bridge 
+Cloudwatch = logging Ec2
+Integrate with services. Combination of EC2 . WEb application EC2 and some functionalities 
+
+Amazon Lex  closely related polly - capability for speaking
+
+
+
+
+1) 
 Lambda or Serverless function ( you pay for execution) Executin of lambda function. it is good when the volume is not high. Temporary ec2. 
 lambda has a role associated with it roles give access to S3. 
+Configuration of lambda function  10 GB max. or 1 GB and how many seconds. If company is growing exponentially. 
 smallest one 20 30 dollars per month.  50 cents for a year. 
-
 EC2 you have to pay even if you stop and EBS. 
+
+
+3) ML
+
+4 ) Elastic Transcoder processing 
+Kinesis = streaming services real time streaming 
+
+Use cases:
+images 
+
+
+Questions:
+types or formats: S3.                        EBS no API 
+DynamoDB - json like format               RDS - BLOB not recommended 
+Serverside encryption 
+Avoid deletion: policies, users, 
+key is accidental deleting: versionig is good.   pros and cons 
+
+
+QEstion 2 
+DATA SCIENCE CLUB mostly likely reason of crash . 
+
+
+
+
+Practice examples
+ISEE APP
+
+Lex and polly  S3. Rekognition. 
+Functionalities 
+chatbot
+recognition detect labels 
+upload image S3. 
+Sagemaker image classifier train  own model 
+deploy on Ec3 instance or lambda function
+
+SDK - calling functionality on your phone  EC2 Rest API. 
+
+S3, Sagemaker train a model audio to text recognition - Video frame object detection. polly for speech. 
+
+Rekognition, Lex ( chatbot) 
+
+
+Qestion3
+
+ML 
+legal age 
+Permission policy  SDK 
+
+
+
+Web Architecture
+
+I am for roles
+identification Cognito
+Ec2 with lambda function 
+Ec2 with load balancer
+
+
+
+
+
+
