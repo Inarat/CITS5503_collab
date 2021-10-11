@@ -1,1 +1,16 @@
+Total # of questions = 5 questions  each 20 points
+EC2 vs Lambda
+DevOps, Docker Containers
+Web Architectures vs Serverless Architectures
+Load Balancers
+STorage Technologies: S3, DynamoDB, RDS 
+ML ( Supervised learning) : SageMaker, Rekognition, Lex, Comprehend, Metrics, Overfitting, Underfitting.
+Other technologies: Elastic Transcoder, POlly
+Cloud computing theory and concepts 
 
+
+Lambda or Serverless function ( you pay for execution) Executin of lambda function. it is good when the volume is not high. Temporary ec2. 
+lambda has a role associated with it roles give access to S3. 
+smallest one 20 30 dollars per month.  50 cents for a year. 
+
+EC2 you have to pay even if you stop and EBS. 
