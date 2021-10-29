@@ -1,6 +1,13 @@
 Total # of questions = 5 questions  each 20 points
 1) EC2 vs Lambda
-2) DevOps, Docker Containers
+2) DevOps
+What is devops?
+- automate dev process
+- enables faster development of new products and easier maintenance of existing deployments
+- encompasses several DevOps concepts: continuous integration and continuous delivery (CI/CD), and continuous deployment
+
+
+3. Docker Containers
 Web Architectures vs Serverless Architectures
 Load Balancers
 STorage Technologies: S3, DynamoDB, RDS 
