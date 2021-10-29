@@ -73,6 +73,22 @@ Lex and polly  S3.
  3. Face detection and analysis
     - Detects potentially unsafe, inappropriate, or unwanted content across images and videos
 
+Use cases for facial recognition
+a. Retail and hospitality – Whether it’s keeping tabs on density limits or providing foot traffic analysis, there are various ways in which facial recognition can be used in retail and hospitality settings. And with the coronavirus pandemic forcing businesses to keep track of their customers, facial recognition can also help automate the check-in process. In China, cameras run a facial recognition algorithm to identify shoppers whenever they enter JD stores. It can even facilitate contactless buying when used in parallel with RFID tags.
+b. Transport and logistics – Self-driving cars have been the focus of facial recognition research in automotive and transport settings. For example, identity verification is being considered to unlock and start a vehicle for its owner. A similar system could also be used for logistics, where long-distance drivers are often required to verify their identity and prove they are the ones driving.
+c. Education – With the coronavirus pandemic putting paid to in-person examinations where invigilators must be present, the education industry has capitalised on technologies like Amazon Rekognition to verify identities and eliminate cheating. This brings us onto Rekogniton’s next capability…
+
+
+4. Label Detection (Image and Video)
+Use Cases for Label Detection
+a. Retail – Once again, retail is one industry that stands to gain a great deal from custom labels. For example, it could be used to identify products and detect brands on a shelf to help with personalised recommendations or inventory management.
+b. Agriculture – AWS gives the example of a tomato producer that needed to classify produce into six ripeness categories from mature green to red. Instead of doing so manually, it used custom labels to classify tomatoes based on their ripeness and integrated this solution into the packaging process.
+c. Media – Custom labels can make content more discoverable on digital platforms as it improves metadata. For example, Rekognition can automatically tag and label objects such as logos, characters, actors, scenes, and locations, which can then be indexed to make content searchable. This leads to more personalised recommendations and a better content discovery experience for users.
+
+
+
+
+
 
 Functionalities 
 chatbot
