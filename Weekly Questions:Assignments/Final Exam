@@ -66,11 +66,12 @@ Lex and polly  S3.
 
 
 *** Amazon Rekognition ***
- - Content moderation
- - image and video analysis with machine learning
- - Face compare and search
- - Face detection and analysis
- - Detects potentially unsafe, inappropriate, or unwanted content across images and videos
+ 1. Content moderation
+    - image and video analysis with machine learning
+ 2. Face compare and search
+    - Determine the similarity of a face against another picture or from your private image repository.
+ 3. Face detection and analysis
+    - Detects potentially unsafe, inappropriate, or unwanted content across images and videos
 
 
 Functionalities 
