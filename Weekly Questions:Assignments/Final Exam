@@ -5,7 +5,7 @@ Web Architectures vs Serverless Architectures
 Load Balancers
 STorage Technologies: S3, DynamoDB, RDS 
 ML ( Supervised learning) : SageMaker, Rekognition, Lex, Comprehend, Metrics, Overfitting, Underfitting.
-- Lex: 
+- Lex: AWS for text and image
 Other technologies: Elastic Transcoder, POlly
 Cloud computing theory and concepts 
 
