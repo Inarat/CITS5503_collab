@@ -62,7 +62,17 @@ DATA SCIENCE CLUB mostly likely reason of crash .
 Practice examples
 ISEE APP
 
-Lex and polly  S3. Rekognition. 
+Lex and polly  S3. 
+
+
+*** Amazon Rekognition ***
+ - Content moderation
+ - image and video analysis with machine learning
+ - Face compare and search
+ - Face detection and analysis
+ - Detects potentially unsafe, inappropriate, or unwanted content across images and videos
+
+
 Functionalities 
 chatbot
 recognition detect labels 
