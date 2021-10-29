@@ -5,6 +5,8 @@ What is devops?
 - automate dev process
 - enables faster development of new products and easier maintenance of existing deployments
 - encompasses several DevOps concepts: continuous integration and continuous delivery (CI/CD), and continuous deployment
+- Continuous delivery is the practice of testing new code as it’s integrated, extending the velocity of continuous integration. Continuous delivery automates the testing and staging of new code to prepare it for deployment.
+- Continuous deployment is the process of automating the release of new code as it’s integrated and approved through continuous integration and continuous delivery. Code that’s successfully tested through the automated delivery processes is staged and released into the production environment, 
 
 
 3. Docker Containers
