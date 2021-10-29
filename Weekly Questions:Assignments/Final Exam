@@ -6,7 +6,10 @@ Load Balancers
 STorage Technologies: S3, DynamoDB, RDS 
 ML ( Supervised learning) : SageMaker, Rekognition, Lex, Comprehend, Metrics, Overfitting, Underfitting.
 
-**SageMaker**: cloud platform for creating, training and deploying maching learning models.
+**SageMaker**: cloud platform for creating, training and deploying maching learning models.including labeling, data preparation, feature engineering,
+statistical bias detection, auto-ML, training, tuning, hosting, explainability, monitoring, and workflows.
+With built-in docker containers and built-in algorithms  containers you can train machine learning algorithms and deploy models quickly and reliably at any scale. 
+
 - Lex: AWS for text and image
 Other technologies: Elastic Transcoder, POlly
 Cloud computing theory and concepts 
